@@ -1,9 +1,9 @@
 # task-3
 SQL for Data Analysis
-🍕 Pizza Sales SQL Analysis
+#🍕 Pizza Sales SQL Analysis
 This project showcases an in-depth SQL analysis of pizza sales data using various advanced querying techniques. The analysis provides insights such as total revenue, most popular pizza types, size preferences, and category-wise performance.
 
-📊 Query Insights-
+#📊 Query Insights-
 
 1. Total number of orders placed  
 2. Total revenue generated from pizza sales  
@@ -14,15 +14,15 @@ This project showcases an in-depth SQL analysis of pizza sales data using variou
 7. Category-wise distribution of pizzas  
 8. Average number of pizzas ordered per day  
 9. Top 3 most ordered pizza types based on revenue
-11.Percentage contribution of each pizza type to total revenue  
-12. Cumulative revenue generated over time  
-13. Top 3 most ordered pizza types by revenue per category  
+10.Percentage contribution of each pizza type to total revenue  
+11. Cumulative revenue generated over time  
+12. Top 3 most ordered pizza types by revenue per category  
  
-📁 Project Structure
+#📁 Project Structure
 pizza_sales_analysis.sql – Main SQL script containing all analytical queries
 pizza_sale_sql.pdf – Pdf with output screenshots from MySQL Workbench for reference
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 SQL dialect: MySQL
 Environment: MySQL Workbench
 Dataset: Pizza Sales (in CSV format)
